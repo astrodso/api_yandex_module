@@ -1,0 +1,33 @@
+посещаемость основного сайта
+http://sites.metrics/api_yandex/get/site?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+Посещаемость из Яндекса
+http://sites.metrics/api_yandex/get/yandex?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+Посещаемость из Google
+http://sites.metrics/api_yandex/get/google?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+Рост процента возвратов
+http://sites.metrics/api_yandex/get/percentage?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+Снижение показателя отказов
+http://sites.metrics/api_yandex/get/bounce?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+Рост глубины просмотра
+http://sites.metrics/api_yandex/get/depth?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+Рост времени нахождения на сайте
+http://sites.metrics/api_yandex/get/duration?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+рекламные системы - визиты Google Adwords
+http://sites.metrics/api_yandex/get/gavisits?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+рекламные системы - визиты Yandex Директ
+http://sites.metrics/api_yandex/get/ydvisits?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+рекламные системы - посетители Google Adwords
+http://sites.metrics/api_yandex/get/gawusers?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
+рекламные системы - посетители Yandex Директ
+http://sites.metrics/api_yandex/get/ydusers?token=100-token-secretnew&domain=rostestural.com&time=1504224000
+
